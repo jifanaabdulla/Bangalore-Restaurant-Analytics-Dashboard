@@ -38,10 +38,8 @@ This project analyzes the **Zomato Bangalore Restaurants Dataset** using Power B
 
 ## 📸 Dashboard Preview
 
-Add dashboard screenshots in the `screenshots/` folder.
-
 ```markdown
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](Banglore-Restaurants-Analytics.pdf)
 ```
 
 ## 🚀 Key Outcome
