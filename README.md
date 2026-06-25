@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project analyzes the **Zomato Bangalore Restaurants Dataset** using Power BI to uncover insights into restaurant ratings, cuisines, pricing, and customer preferences. An ETL process was performed to clean and transform the data before creating interactive visualizations.
+This project analyzes the **Zomato Bangalore Restaurants Dataset** (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) using Power BI to uncover insights into restaurant ratings, cuisines, pricing, and customer preferences. An ETL process was performed to clean and transform the data before creating interactive visualizations.
 
 ## 🎯 Objectives
 
